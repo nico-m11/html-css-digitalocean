@@ -16,3 +16,14 @@ li  .active {
   margin: 0.8rem;
   color: #2285fd;
 }
+
+.navbar-fixed-top {
+  background-color: white;
+}
+
+/*jumbotron */
+
+.jumbotron {
+  background-image: url("../img/sfondo-pesci.svg");
+  color: white;
+}
