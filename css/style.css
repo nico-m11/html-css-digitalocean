@@ -1,13 +1,22 @@
-/* navbar*/ 
-li, a {
+/* navbar*/
+li > a {
   display: inline;
   text-decoration: none;
   color: black;
 }
+
 .glyphicon-chevron-down {
   margin-left: 5px;
 }
 
+.logo_img {
+  height: 25px;
+  margin-top: 0.5rem;
+  margin-left: 1.2rem;
+}
+ul {
+  margin-left: 5.4rem;
+}
 li  .active {
   background-color: white;
   color: #2285fd;
@@ -26,4 +35,43 @@ li  .active {
 .jumbotron {
   background-image: url("../img/sfondo-pesci.svg");
   color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 70px;
+  margin-bottom: 0;
+}
+.form_text {
+  text-align: center;
+  margin-left: ;
+}
+.form_access {
+  border: 1px solid gray;
+  padding: 2%;
+  background-color: white;
+  color: black;
+  border-radius: 5%;
+  margin-top: 2rem;
+  height: auto;
+  width: auto;
+  text-align: center;
+  position: relative;
+  left: 3%;
+}
+
+
+.cl-bl {
+  color: #2285fd;
+}
+
+/*main*/
+.cont_color {
+  background-color: #f3f5f9;
+}
+
+.text_cent {
+  text-align: center;
+}
+img {
+  height: 50px;
+  width: 80px;
 }
