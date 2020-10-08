@@ -160,4 +160,9 @@ li  .active {
 
 .bg-col {
   background-color: #010e28;
+  padding: 2%;
+}
+
+.content_5 {
+  color: white;
 }
