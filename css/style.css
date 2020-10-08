@@ -122,7 +122,7 @@ li  .active {
 }
 
 .blu_nl {
-  background-color: #1100ff;
+  background: #031b4e url(https://prismic-io.s3.amazonaws.com/www-static/bb563ec9-49ef-4ceb-8468-da84f1509fcc_bg-map-solid.svg);
   color: white;
   padding: 5%;
 }
@@ -134,7 +134,12 @@ li  .active {
 
 /* six */
 .pos_5 {
-  padding: 5%;
+  padding: 10%;
+}
+
+.img_final {
+  margin-left: 20%;
+
 }
 
 /* seven*/
