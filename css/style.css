@@ -141,10 +141,17 @@ li  .active {
 .blu_cl {
   background-color: #015aff;
   color: white;
+  padding: 5%;
 }
 
 .btn-default_1 {
   position: relative;
   left: 45%;
   color: #015aff;
+}
+
+/* footer*/
+
+.bg-col {
+  background-color: #010e28;
 }
