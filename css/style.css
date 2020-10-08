@@ -58,20 +58,53 @@ li  .active {
   left: 3%;
 }
 
-
+#text_cent {
+  text-align: center;
+}
 .cl-bl {
   color: #2285fd;
 }
 
-/*main*/
+/* section one*/
 .cont_color {
   background-color: #f3f5f9;
 }
 
-.text_cent {
-  text-align: center;
+
+.h_1 {
+  height: 80px;
+  width: 100px;
 }
-img {
+/* section two */
+
+.img_h {
   height: 50px;
-  width: 80px;
+}
+
+.list-unstyled {
+  padding: 2rem;
+  border-left: 2px solid #ddd;
+}
+.list-unstyled> li {
+ padding: 5px;
+}
+
+.col_p {
+  padding: 2%;
+}
+
+.col_p> img {
+  height: 40px;
+  width: 50px;
+}
+
+.pos_re {
+  position: relative;
+  bottom: 150px;
+}
+
+/* section three */
+
+.pos_2 {
+  padding: 8%;
 }
