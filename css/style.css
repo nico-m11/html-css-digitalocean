@@ -78,7 +78,8 @@ li  .active {
 /* section two */
 
 .img_h {
-  height: 50px;
+  height: 80px;
+  width: 100px;
 }
 
 .list-unstyled {
@@ -100,11 +101,50 @@ li  .active {
 
 .pos_re {
   position: relative;
-  bottom: 150px;
+  bottom: 15rem;
 }
 
 /* section three */
 
 .pos_2 {
-  padding: 8%;
+  padding: 5%;
+}
+
+.img_3 {
+  width: 90%;
+  height: 100%;
+}
+
+/* secrtion five */
+.content {
+  margin-left: 25%;
+  color: white;
+}
+
+.cont_col_li {
+  background-color: #031b4e;
+  padding: 15%;
+}
+
+.white_cl {
+  color: white;
+  padding: 2%;
+}
+
+/* six */
+.pos_5 {
+  padding: 5%;
+}
+
+/* seven*/
+
+.blu_cl {
+  background-color: #015aff;
+  color: white;
+}
+
+.btn-default_1 {
+  position: relative;
+  left: 45%;
+  color: #015aff;
 }
